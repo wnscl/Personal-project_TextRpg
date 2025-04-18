@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPG_LMJ", "TextRPG_LMJ\TextRPG_LMJ.csproj", "{A1133DC4-D13C-421C-B599-A2A06BB56B12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1133DC4-D13C-421C-B599-A2A06BB56B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1133DC4-D13C-421C-B599-A2A06BB56B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1133DC4-D13C-421C-B599-A2A06BB56B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1133DC4-D13C-421C-B599-A2A06BB56B12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023F8937-ABFE-45BD-A444-E795E91EE883}
+	EndGlobalSection
+EndGlobal
